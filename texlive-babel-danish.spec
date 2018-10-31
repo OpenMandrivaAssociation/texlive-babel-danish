@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-babel-danish
 Version:	1.3r
-Release:	1
+Release:	2
 Summary:	TeXLive babel-danish package
 Group:		Publishing
 URL:		http://tug.org/texlive
