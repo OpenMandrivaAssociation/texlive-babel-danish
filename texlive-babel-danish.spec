@@ -1,6 +1,6 @@
 Name:		texlive-babel-danish
 Version:	57642
-Release:	1
+Release:	2
 Summary:	TeXLive babel-danish package
 Group:		Publishing
 URL:		http://tug.org/texlive
