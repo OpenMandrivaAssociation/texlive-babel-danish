@@ -3,7 +3,7 @@ Version:	57642
 Release:	2
 Summary:	TeXLive babel-danish package
 Group:		Publishing
-URL:		http://tug.org/texlive
+URL:		https://tug.org/texlive
 License:	http://www.tug.org/texlive/LICENSE.TL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-danish.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-danish.doc.r%{version}.tar.xz
